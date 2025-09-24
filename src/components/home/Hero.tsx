@@ -25,7 +25,7 @@ const slides = [
 //     image: '/assets/hero2.png',
 //   },
   {
-    title: 'Alankar Jewellers ',
+    title: 'Alankar Jewellers Rishikesh ',
 description: `हम सिर्फ गहने नहीं बेचते, हम कहानियाँ गढ़ते हैं। हमारी टीम गढ़वाली पारंपरिक डिज़ाइनों को आधुनिक फैशन के साथ मिलाकर एक नया अंदाज़ देती है – ताकि आज की पीढ़ी भी अपनी संस्कृति को गर्व से पहन सके।`,
 
     image: '/assets/slide1.webp',
