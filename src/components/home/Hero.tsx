@@ -100,7 +100,8 @@ const Hero = () => {
   initial={{ x: -50, opacity: 0 }}
   animate={{ x: 0, opacity: 1 }}
   transition={{ duration: 1, delay: 0.2 }}
-  className="font-playfair text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-semibold text-[#F0C694] mb-4 whitespace-nowrap overflow-hidden text-ellipsis"
+className="font-playfair text-xl sm:text-3xl md:text-5xl lg:text-6xl font-semibold text-[#F0C694] mb-4 whitespace-nowrap overflow-hidden text-ellipsis"
+
   style={{ fontFamily: "'Playfair Display', serif" }}
 >
   {slide.title}
